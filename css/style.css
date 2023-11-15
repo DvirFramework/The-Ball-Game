@@ -5,3 +5,9 @@ body{
 h1{
     background-color: white;
 }
+
+.ball{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
